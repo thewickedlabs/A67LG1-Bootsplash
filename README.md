@@ -17,7 +17,7 @@ The installer stops without changing anything if either is missing.
 
 ## Install
 
-1. Download `A67LG1-Bootsplash.zip` from Releases.
+1. Download [`A67LG1-Bootsplash.zip`](https://github.com/thewickedlabs/A67LG1-Bootsplash/releases/latest/download/A67LG1-Bootsplash.zip) (latest release).
 2. KernelSU Next → Modules → Install from storage → select the zip.
 3. Reboot.
 
